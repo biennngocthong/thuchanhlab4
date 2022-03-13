@@ -1,2 +1,2 @@
-noi dung moi git
+thay doi noi dung file
 noi dung them moi dau server
