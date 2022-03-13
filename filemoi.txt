@@ -1,1 +1,2 @@
 noi dung moi git
+noi dung them moi dau server
