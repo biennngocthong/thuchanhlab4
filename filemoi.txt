@@ -2,4 +2,4 @@ thay doi noi dung file
 noi dung them moi dau server
 noi dung thay doi tren may khac
 noi dung thay doi tren may 1
-
+them xung dot tren filemoi may 1
